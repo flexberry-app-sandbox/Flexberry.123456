@@ -1,0 +1,1 @@
+docker-compose -p 123456 down

@@ -1,0 +1,57 @@
+﻿{
+  "applicationCaption": "123456",
+  "applicationTitle": "123456",
+  "items": [
+    {
+      "link": null,
+      "menuName": "123456",
+      "caption": "123456",
+      "title": "123456",
+      "children": [
+        {
+          "link": "i-i-s-123456-сотрудник-l",
+          "menuName": null,
+          "caption": "Сотрудник",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-123456-должность-l",
+          "menuName": null,
+          "caption": "Должность",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-123456-отчет-о-сервере-l",
+          "menuName": null,
+          "caption": "Отчет о сервере",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-123456-серверная-l",
+          "menuName": null,
+          "caption": "Серверная",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-123456-расположение-l",
+          "menuName": null,
+          "caption": "Расположение",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-123456-сенсоры-l",
+          "menuName": null,
+          "caption": "Сенсоры",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}
